@@ -1,4 +1,4 @@
-# Resume-Project-Mintron-Bank-Project--Power-BI
+# Resume-Project-Mitron-Bank-Project--Power-BI
 🔍 Project Overview:
 Mitron Bank aimed to broaden its market presence by introducing a fresh range of credit cards. My responsibility was to employ data analytics to guide this expansion. We initiated this journey with a pilot project involving 4,000 customers from five cities, laying the foundation for a comprehensive rollout.
 
